@@ -1,4 +1,4 @@
-# Country Information App
+# Titans Country Information App
 
 ## Overview
 
@@ -86,6 +86,3 @@ Contributions are welcome! Please open an issue or submit a pull request if you 
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-## Contact
-If you have any questions or feedback, please contact your-email@example.com.
