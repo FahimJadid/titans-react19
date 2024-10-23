@@ -1,0 +1,17 @@
+[
+    {
+      "icon": "MdPlace",
+      "title": "Find us",
+      "details": "Dhaka, Bangladesh"
+    },
+    {
+      "icon": "IoCallSharp",
+      "title": "Call us",
+      "details": "+880 123 456 7890"
+    },
+    {
+      "icon": "TbMailPlus",
+      "title": "Mail us",
+      "details": "titans@gmail.com"
+    }
+  ]
